@@ -10,6 +10,9 @@
 
 Support Vite
 
+`Important`: Does not process `.css` files and its derivatives.
+[This is handled by postcss](https://vitejs.ru/guide/features.html#postcss)
+
 [Installation](#installation)
 
 ## Demonstration
