@@ -26,8 +26,6 @@ export default function myPlugin({
 				return { code, map: null };
 			}
 
-			console.log(`CODE: ${file} : ${code}`);
-
 			return {
 				code: transformMultipleClasses(code),
 				map: null, // provide source map if available
