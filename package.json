@@ -1,6 +1,6 @@
 {
 	"name": "rollup-plugin-tailwindcss-multiple-classes",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,6 @@
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
-		"tailwindcss-multiple-classes": "^1.0.6"
+		"tailwindcss-multiple-classes": "^1.0.7"
 	}
 }
